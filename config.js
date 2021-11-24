@@ -40,33 +40,33 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/',
+      name: 'YouTube',
+      icon: 'youtube',
+      link: 'https://youtube.com/',
     },
     {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://mail.google.com',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://todoist.com',
-    },
-    {
-      id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
-    },
-    {
-      id: '5',
       name: 'Reddit',
       icon: 'glasses',
       link: 'https://reddit.com',
+    },
+    {
+      id: '4',
+      name: 'Canvas',
+      icon: 'book',
+      link: 'https://kau.instructure.com/login/saml',
+    },
+    {
+      id: '5',
+      name: 'Netflix',
+      icon: 'film',
+      link: 'https://netflix.com',
     },
     {
       id: '6',
@@ -88,7 +88,7 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
+        name: 'todo: Subreddit list',
         link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
       {
